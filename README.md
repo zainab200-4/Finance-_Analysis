@@ -35,13 +35,13 @@ finance_transactions_dataset.xlsx
 
 It contains financial transaction records with fields such as:
 
- Amount
- Net Amount
- Tax Amount
- Transaction Type
- Transaction Date
- Approval Status
- Company, Department, Analyst
+ Amount,
+ Net Amount,
+ Tax Amount,
+ Transaction Type,
+ Transaction Date,
+ Approval Status,
+ Company, Department, Analyst,
  Sector, Category, Currency
 
 
